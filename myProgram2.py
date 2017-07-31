@@ -1,5 +1,5 @@
 # Title: My program - Adds or multiply two arguments
-# Author: Miguel Angel García 
+# Author: Miguel Angel Garcia 
 # Based on https://docs.python.org/3/howto/argparse.html by Tshepang Lekhonkhobe
 
 import argparse
