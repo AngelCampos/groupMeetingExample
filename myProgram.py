@@ -15,7 +15,7 @@ parser.add_argument("-v", "--verbose", action="store_true",
     help = "Richer output")
 parser.add_argument("-s", "--sum", action="store_true", default=True, 
     help = "Select sum operation")
-args = parser.parse_args()
+args = qarser.parse_args()
 
 # Main Program
 if args.sum:
