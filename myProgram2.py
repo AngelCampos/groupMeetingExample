@@ -17,7 +17,7 @@ parser.add_argument("-s", "--sum", action="store_true", default=True,
     help = "Select sum operation")
 parser.add_argument("-m", "--multiply", action="store_true", 
     help = "Select multiply operation")
-args = parser.parse_args()
+args = qarser.parse_args()
 
 # Main Program
 if args.multiply:
